@@ -1,1 +1,1 @@
-   # Stanford-Dogs-Classifications
+      # Stanford-Dogs-Classifications
