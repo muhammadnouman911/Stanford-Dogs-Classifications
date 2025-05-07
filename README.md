@@ -41,4 +41,8 @@ This project is a comprehensive implementation of a deep learning model designed
 
    * Open `Stanford Dogs.ipynb` and execute all cells.
 
+## 📊 Results
+
+* The model achieves high accuracy in classifying 120 different dog breeds.
+* Comprehensive evaluation metrics are provided in the notebook.
 
