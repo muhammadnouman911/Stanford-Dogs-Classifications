@@ -56,4 +56,7 @@ This project is a comprehensive implementation of a deep learning model designed
 
 This project is open-source and available under the MIT License.
 
+## 💡 Acknowledgements
 
+* Stanford Dogs Dataset ([http://vision.stanford.edu/aditya86/ImageNetDogs/](http://vision.stanford.edu/aditya86/ImageNetDogs/))
+* TensorFlow/Keras for model training.
