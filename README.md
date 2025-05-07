@@ -18,3 +18,10 @@ This project is a comprehensive implementation of a deep learning model designed
 * `Dataset/`: Folder containing the images used for training and testing.
 * `README.md`: This file, providing an overview of the project.
 
+## 🌟 Features
+
+* Utilizes transfer learning techniques for improved model accuracy.
+* Custom data augmentation for better generalization.
+* Supports evaluation and visualization of model performance.
+
+
