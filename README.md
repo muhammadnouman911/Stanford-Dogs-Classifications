@@ -11,3 +11,10 @@ This project is a comprehensive implementation of a deep learning model designed
 * **Number of Images:** 20,580 high-resolution images
 * **Preprocessing:** Images are resized, normalized, and augmented for improved model performance.
 
+## 🚦 Key Files
+
+* `Stanford Dogs.ipynb`: Main notebook containing the model training and evaluation process.
+* `dataset.ipynb`: Notebook dedicated to data exploration and preprocessing.
+* `Dataset/`: Folder containing the images used for training and testing.
+* `README.md`: This file, providing an overview of the project.
+
