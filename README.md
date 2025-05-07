@@ -24,4 +24,21 @@ This project is a comprehensive implementation of a deep learning model designed
 * Custom data augmentation for better generalization.
 * Supports evaluation and visualization of model performance.
 
+## 🚀 How to Use
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/muhammadnouman911/Stanford-Dogs-Classification.git
+   cd Stanford-Dogs-Classification
+   ```
+2. **Install Dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. **Run the Model:**
+
+   * Open `Stanford Dogs.ipynb` and execute all cells.
+
 
