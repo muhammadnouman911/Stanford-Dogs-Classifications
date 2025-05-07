@@ -52,4 +52,8 @@ This project is a comprehensive implementation of a deep learning model designed
 * Optimize training speed with mixed precision training.
 * Deploy as a Streamlit web application for user-friendly interaction.
 
+## 📝 License
+
+This project is open-source and available under the MIT License.
+
 
