@@ -46,3 +46,10 @@ This project is a comprehensive implementation of a deep learning model designed
 * The model achieves high accuracy in classifying 120 different dog breeds.
 * Comprehensive evaluation metrics are provided in the notebook.
 
+## 🚀 Future Improvements
+
+* Enhance the model using more advanced architectures (e.g., EfficientNet, ViT).
+* Optimize training speed with mixed precision training.
+* Deploy as a Streamlit web application for user-friendly interaction.
+
+
